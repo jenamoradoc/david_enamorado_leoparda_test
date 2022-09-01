@@ -59,7 +59,7 @@ There are no known bugs of this project at the moment.
 There are no tests including on this app, it could be added soon. Tool sugested [Jest](https://jestjs.io/) 
 
 # Link to Live Website
-Link: 
+Link: [react tip app](https://david-enamorado-leoparda-test.vercel.app/)
 
 # License
 MIT License
